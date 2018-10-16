@@ -1,0 +1,24 @@
+.cards {
+    border: solid 1px blueviolet;
+    box-shadow: 2px 2px 3px rgb(87, 86, 86);
+    padding: 10px;
+}
+
+.btns {
+    font-size: 20px;
+    color: white;
+    width: 70%;
+    align-self: center;
+    margin-bottom: 10px;
+    background-color: blueviolet;
+    box-shadow: 2px 2px 3px rgb(87, 86, 86) ;
+}
+.btns:hover {
+    background-color: blueviolet;
+    color: white;
+}
+
+link {
+    text-decoration: 'none';
+    color: 'white';
+}

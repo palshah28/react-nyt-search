@@ -1,0 +1,27 @@
+.navbar-header {
+    align-self: center;
+    color: blueviolet !important;
+    font-size: 70px;
+}
+.link{
+    align-self: center;
+    color: red !important;
+    font-size: 30px;
+    box-shadow: 2px 2px 3px rgb(87, 86, 86);
+}
+
+.search-card {
+    margin: 10px;
+    opacity: 0.9;
+    background-color: transparent;
+    border: none;
+}
+
+#srch-btn {
+    font-size: 20px;
+    width: 70%;
+    align-self: center;
+    margin-bottom: 10px;
+    background-color: blueviolet;
+    box-shadow: 2px 2px 3px rgb(87, 86, 86);
+}
